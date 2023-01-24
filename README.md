@@ -1,6 +1,8 @@
 ## Novice Front-End Developer
 
-Education
+## Education
+1. 2018-2022 Kharkiv Patent and Computer College
+2. 2022-2025 Kharkiv National University of Radio Electronics
 
 ## Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-333444?style=for-the-badge&logo=HTML5)
