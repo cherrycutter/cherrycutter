@@ -18,3 +18,4 @@
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-333444?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-mysql-333444?style=for-the-badge&logo=mysql)
 ![Gin](https://img.shields.io/badge/-gin-333444?style=for-the-badge&logo=gin)
+![Git](https://img.shields.io/badge/-git-333444?style=for-the-badge&logo=git)
