@@ -1,4 +1,4 @@
-## Novice Front-End Developer
+## Full-stack developer
 
 ## Education
 1. 2018-2022 Kharkiv Patent and Computer College
