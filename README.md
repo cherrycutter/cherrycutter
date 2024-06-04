@@ -16,6 +16,8 @@ Hi there! I'm a novice Full Stack Developer with a passion for building innovati
 
 ### ️ Projects
 
+* **[Todo Golang API](https://github.com/cherrycutter/todo-golang-api)** - Todo Golang RESTFUL API
+
 ###  Get in Touch
 
 * Telegram: [https://t.me/cherrycutter]
