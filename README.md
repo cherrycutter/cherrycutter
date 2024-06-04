@@ -1,6 +1,6 @@
 ##  Vladyslav Fomin - Novice Full Stack Developer
 
-Hi there! I'm a novice Full Stack Developer with a passion for building innovative and user-friendly web applications. I'm currently pursuing a degree at Kharkiv National University of Radio Electronics and enjoy contributing to open-source projects.
+Hi there! I'm a novice Full Stack Developer with a passion for building innovative and user-friendly web applications. I'm currently pursuing a degree at Kharkiv National University of Radio Electronics.
 
 ###  Skills
 
