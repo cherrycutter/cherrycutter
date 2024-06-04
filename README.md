@@ -13,3 +13,4 @@
 ![CSS](https://img.shields.io/badge/-CSS-333444?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333444?style=for-the-badge&logo=JavaScript)
 ![TypeScrtipt](https://img.shields.io/badge/-TypeScript-333444?style=for-the-badge&logo=TypeScript)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-333444?style=for-the-badge&logo=postgresql)
