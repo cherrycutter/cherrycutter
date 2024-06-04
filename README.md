@@ -6,7 +6,7 @@
 
 ## Languages and Tools
 
-![React](https://img.shields.io/badge/-Golang-333444?style=for-the-badge&logo=Golang)
+![Golang](https://img.shields.io/badge/-Golang-333444?style=for-the-badge&logo=Go)
 ![React](https://img.shields.io/badge/-React-333444?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-333444?style=for-the-badge&logo=Redux)
 ![HTML](https://img.shields.io/badge/-HTML-333444?style=for-the-badge&logo=HTML5)
