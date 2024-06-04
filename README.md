@@ -14,3 +14,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333444?style=for-the-badge&logo=JavaScript)
 ![TypeScrtipt](https://img.shields.io/badge/-TypeScript-333444?style=for-the-badge&logo=TypeScript)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-333444?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/-docker-333444?style=for-the-badge&logo=docker)
