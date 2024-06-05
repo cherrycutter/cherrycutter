@@ -1,4 +1,4 @@
-##  Vladyslav Fomin - Novice Full Stack Developer
+#  Vladyslav Fomin - Full Stack Developer
 
 Hi there! I'm a novice Full Stack Developer with a passion for building innovative and user-friendly web applications. I'm currently pursuing a degree at Kharkiv National University of Radio Electronics.
 
@@ -22,6 +22,6 @@ Hi there! I'm a novice Full Stack Developer with a passion for building innovati
 
 * Telegram: [https://t.me/cherrycutter]
 
-**P.S.** I'm always open to collaborating on interesting projects, feel free to reach out!
+**P.S.** I'm always open to new work opportunities and collaborations, so feel free to reach out!
 
 
